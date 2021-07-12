@@ -6,3 +6,7 @@ In this repo, I will practice
   2. make and commit, 
   3. open a pull request, and 
   4. merge my pull request.
+
+A little bit about myself -
+
+I am a very boring data analyst/manager at the Seattle ERIC.
